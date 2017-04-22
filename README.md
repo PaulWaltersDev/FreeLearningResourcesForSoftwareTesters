@@ -22,13 +22,13 @@ Paul Maxwell-Walters (twitter @TestingRants, paulwalters2002@yahoo.co.uk)
 
 * [Black Box Software Testing (BBST)](http://www.testingeducation.org/BBST/)
 
-** [Foundations](http://www.testingeducation.org/BBST/foundations/)
+  * [Foundations](http://www.testingeducation.org/BBST/foundations/)
 
-** [Bug Advocacy](http://www.testingeducation.org/BBST/bugadvocacy/)
+  * [Bug Advocacy](http://www.testingeducation.org/BBST/bugadvocacy/)
 
-** [Test Design](http://www.testingeducation.org/BBST/bugadvocacy/)
+  * [Test Design](http://www.testingeducation.org/BBST/bugadvocacy/)
 
-** [Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
+  * [Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
 
 ## Test Design and Execution
 
@@ -84,6 +84,7 @@ To be completed
 To be completed
 
 ## Testing in Agile
+
 To be completed
 
 ## Developing as a Tester
