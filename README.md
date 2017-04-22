@@ -1,16 +1,18 @@
 
 # FreeLearningResourcesForSoftwareTesters
-An ongoing project to create a set of links to free online learning resources for new and experience Software Testers.
+An ongoing project to create a set of links to free online learning resources for new and experienced Software Testers.
 
-Since computer science and IT university departments don't invariably offer dedicated software testing modules and resources are spread among various different providers linked to different methodologies, I created this project to help guide new testers into some sort of useful curriculum and collate existing web-based resources into an easily-followable format.
+Since computer science and IT university departments don't invariably offer dedicated software testing modules and resources are spread among various different providers linked to different methodologies, I created this project to help guide new testers into some sort of useful curriculum and collate some existing web-based resources into lists of links.
 
-The more resources are added the better, and I ask the testing community to help by contacting me to offer new content or create a pull request.
-
-The rules we have are -
+The rules I wish to implement are -
 
 1. Content must be directly relevant to testers
 1. Content must be informative and not overly "salesy"
 1. Contest must be free of charge
+
+The more resources are added the better, and I ask the testing community to help by contacting me to offer new content or fork and create a pull request. If you have any suggestions, please let me know. In the meantime, I hope you find the resources below useful.
+
+Paul Maxwell-Walters (twitter @TestingRants, paulwalters2002@yahoo.co.uk)
 
 ## Introduction to Testing
 
@@ -86,6 +88,8 @@ To be completed
 
 ## Developing as a Tester
 *[30 Days of Testing, Ministry of Testing](https://dojo.ministryoftesting.com/lessons/30-days-of-testing)
+
 *[Buccaneer-Tester: Winning Your Reputation](https://www.youtube.com/watch?v=MKFqwKSon-E)
+
 *[Becoming a World-Class Tester, Ilari Henrik Aegerter](http://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/)
 
