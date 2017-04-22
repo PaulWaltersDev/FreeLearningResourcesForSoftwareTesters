@@ -30,6 +30,12 @@ Paul Maxwell-Walters (twitter @TestingRants, paulwalters2002@yahoo.co.uk)
 
   * [Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
 
+## The Testing Mindset
+
+* [List of Cognitive Biases, Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+
+* [Propositional Logic, Kevin deLaPlante](https://www.youtube.com/watch?v=qV4htTfow-E&list=PL619166130C21EADA)
+
 ## Test Design and Execution
 
 * [Requirements Analysis, University of Michigan](http://groups.engin.umd.umich.edu/CIS/course.des/cis375/ppt/lec11.ppt)
@@ -44,8 +50,11 @@ Paul Maxwell-Walters (twitter @TestingRants, paulwalters2002@yahoo.co.uk)
 
 * [The Art and Science of Questioning, Jessica Ingrassellino](https://www.youtube.com/watch?v=-kB7tLlMPFU)
 
-## Exploratory Testing
+## Testing Tools
 
+* [What Testing Tools should I Learn, Mark Whitteringham, Ministry of Testing](https://dojo.ministryoftesting.com/lessons/what-tools-should-i-learn)
+
+## Exploratory Testing
 
 * [What is Exploratory Testing, James Bach](http://www.satisfice.com/articles/what_is_et.shtml)
 
@@ -62,6 +71,7 @@ Paul Maxwell-Walters (twitter @TestingRants, paulwalters2002@yahoo.co.uk)
 * [Session Based Testing, Peter Tennekes](https://vimeo.com/14761201)
 
 * [Session Based Test Management, Jon Bach](http://www.satisfice.com/articles/sbtm.pdf)
+
 
 ## Test Automation
 
