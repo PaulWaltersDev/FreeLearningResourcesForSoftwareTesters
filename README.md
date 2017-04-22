@@ -10,7 +10,7 @@ The rules I wish to implement are -
 1. Content must be informative and not overly "salesy"
 1. Contest must be free of charge
 
-The more resources are added the better, and I ask the testing community to help by contacting me to offer new content or fork and create a pull request. If you have any suggestions, please let me know. In the meantime, I hope you find the resources below useful.
+This project is very new and the more resources are added the better. I ask the testing community to help by contacting me to offer new content or fork and create a pull request. If you have any suggestions, please let me know. In the meantime, I hope you find the resources below useful.
 
 Paul Maxwell-Walters (twitter @TestingRants, paulwalters2002@yahoo.co.uk)
 
