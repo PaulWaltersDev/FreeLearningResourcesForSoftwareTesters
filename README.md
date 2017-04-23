@@ -11,7 +11,7 @@ The rules I wish to implement are -
 
 This project is very new and the more resources are added the better. I ask the testing community to help by contacting me to offer new content or fork and create a pull request. If you have any suggestions, please let me know. In the meantime, I hope you find the resources below useful.
 
-Paul Maxwell-Walters (twitter @TestingRants, paulwalters2002@yahoo.co.uk)
+Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalters2002@yahoo.co.uk
 
 ## Introduction to Testing
 
@@ -29,7 +29,7 @@ Paul Maxwell-Walters (twitter @TestingRants, paulwalters2002@yahoo.co.uk)
 
   * [Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
 
-* [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon] (http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
+* [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon](http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
 
 ## The Testing Mindset
 
