@@ -142,6 +142,10 @@ To be completed
 
 * [AB Testing Podcast](http://www.angryweasel.com/ABTesting/)
 
+## Offbeat, possibly even Bonkers Stuff
+
+* [On Vegan Cooking and What Testers can Learn from it](http://testingrants.blogspot.com.au/2017/02/on-vegan-cooking-and-what-testers-can.html)
+
 
 
 
