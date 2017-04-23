@@ -53,6 +53,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [The Art and Science of Questioning, Jessica Ingrassellino](https://www.youtube.com/watch?v=-kB7tLlMPFU)
 
+* [Software Testing Best Practices, Rex Black](http://rbcs-us.com/site/assets/files/2389/software_testing_best_practices.pdf)
+
 ## Testing Tools
 
 * [What Testing Tools should I Learn, Mark Whitteringham, Ministry of Testing](https://dojo.ministryoftesting.com/lessons/what-tools-should-i-learn)
