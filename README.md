@@ -1,4 +1,5 @@
-  
+
+
 # Free Learning Resources For Software Testers
 An ongoing project to create a set of links to free online learning resources for new and experienced Software Testers.
 
@@ -97,6 +98,18 @@ To be completed
 
 To be completed
 
+## Security and Penetration Testing
+
+* [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+
+* [Security I, Dr Markus Kuhn, University of Cambridge](https://www.cl.cam.ac.uk/teaching/1415/SecurityI/)
+
+* [Understanding the OWASP Top 10, Gary Hockin](https://www.youtube.com/watch?v=qMkiZ3Ehv5M)
+
+* [Web Pentesting Workshop with BurpSuite and Mutillidae Pt 1, Jeremy Druin](https://www.youtube.com/watch?v=rNkR1Joz4eU)
+
+* [SQL Injection, OWASP Testing Guide](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
+
 ## Developing as a Tester
 
 * [30 Days of Testing, Ministry of Testing](https://dojo.ministryoftesting.com/lessons/30-days-of-testing)
@@ -104,4 +117,33 @@ To be completed
 * [Buccaneer-Tester: Winning Your Reputation](https://www.youtube.com/watch?v=MKFqwKSon-E)
 
 * [Becoming a World-Class Tester, Ilari Henrik Aegerter](http://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/)
+
+## Podcasts
+
+* [PerfBytes Podcast](http://www.perfbytes.com/)
+
+* [QualiTest's the Testing Show](https://www.qualitestgroup.com/resources/the-testing-show/)
+
+* [MKLTestHead Podcasts](http://www.mkltesthead.com/p/podcasts.html)
+
+* [The Dojo, Ministry of Testing](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
+
+* [TWiT Security Now](https://twit.tv/shows/security-now)
+
+* [Defensive Security Podcast](https://defensivesecurity.org/category/podcast/)
+
+* [James Bach's Podcast](http://www.satisfice.com/podcasts.shtml)
+
+* [Testing in the Pub](http://testinginthepub.co.uk/testinginthepub/)
+
+* [Test Talks Podcast](https://joecolantonio.com/testtalks/)
+
+* [Super Testing Bros](https://soundcloud.com/user-813752576-652941214)
+
+* [AB Testing Podcast](http://www.angryweasel.com/ABTesting/)
+
+
+
+
+
 
