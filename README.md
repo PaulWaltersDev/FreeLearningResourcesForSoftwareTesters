@@ -1,5 +1,3 @@
-
-
 # Free Learning Resources For Software Testers
 An ongoing project to create a set of links to free online learning resources for new and experienced Software Testers.
 
@@ -31,11 +29,15 @@ Paul Maxwell-Walters (twitter @TestingRants, paulwalters2002@yahoo.co.uk)
 
   * [Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
 
+* [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon] (http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
+
 ## The Testing Mindset
 
 * [List of Cognitive Biases, Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
 * [Propositional Logic, Kevin deLaPlante](https://www.youtube.com/watch?v=qV4htTfow-E&list=PL619166130C21EADA)
+
+* [Agile Testing Mindset and the Role of the Agile Tester, Amir Gharai, Testing Excellence](http://www.testingexcellence.com/agile-testing-mindset-tester-role-agile-team/)
 
 ## Test Design and Execution
 
