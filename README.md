@@ -31,6 +31,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon](http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
 
+* [Four Hour Tester(Joep Schuurkes and Helena Jeret-Mae](http://www.fourhourtester.net/)
+
 ## The Testing Mindset
 
 * [List of Cognitive Biases, Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
@@ -129,6 +131,8 @@ To be completed
 * [QualiTest's the Testing Show](https://www.qualitestgroup.com/resources/the-testing-show/)
 
 * [MKLTestHead Podcasts](http://www.mkltesthead.com/p/podcasts.html)
+
+* [Let's Talk About Tests, Baby](http://letstalkabouttests.libsyn.com/)
 
 * [The Dojo, Ministry of Testing](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
 
