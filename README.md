@@ -45,6 +45,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Agile Testing Mindset and the Role of the Agile Tester, Amir Gharai, Testing Excellence](http://www.testingexcellence.com/agile-testing-mindset-tester-role-agile-team/)
 
+* [Philosophy for Beginners, Marianne Talbot, University of Oxford CCE](https://www.youtube.com/playlist?list=PLbgBhYAnXCnnzuBmY8O9RCXQZV_y7mbo6)
+
 * [General Philosophy, Peter Millican, University of Oxford](https://www.youtube.com/playlist?list=PL2FEB728FF960FBD9)
 
 ## Test Design and Execution
@@ -208,6 +210,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Becoming a World-Class Tester, Ilari Henrik Aegerter](http://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/)
 
+* [The power of believing that you can improve, Carol Dweck, TedTalks](https://www.youtube.com/watch?v=_X0mgOOSpLU)
 
 ## Podcasts
 
