@@ -82,6 +82,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 ## Test Automation
 
+* [Page Object Pattern](https://martinfowler.com/bliki/PageObject.html)
+
 * [Selenium Documentation](http://docs.seleniumhq.org/docs/)
 
 * [Selenium WebDriver tutorials (Java), Guru99](http://www.guru99.com/selenium-tutorial.html)
@@ -89,6 +91,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Getting Started with Selenium WebDriver Pt1 (Evil Tester)](https://www.youtube.com/playlist?list=PLrM2ELpRbbu5cWJbRuzpAr6SR40Gb0QHU)
 
 * [Getting Started with Selenium Webdriver Pt2 (Evil Tester)](https://www.youtube.com/playlist?list=PLrM2ELpRbbu4aMGNkA_13cPUJNGA1592t)
+
+* [Verify XPath Expression in Chrome](http://stackoverflow.com/questions/22571267/how-to-verify-an-xpath-expression-in-chrome-developers-tool-or-firefoxs-firebug/22571294#22571294)
 
 * [SoapUI Tutorials](https://www.soapui.org/tutorials.html)
 
