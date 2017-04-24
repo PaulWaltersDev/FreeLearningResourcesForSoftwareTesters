@@ -31,7 +31,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon](http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
 
-* [Four Hour Tester(Joep Schuurkes and Helena Jeret-Mae](http://www.fourhourtester.net/)
+* [Four Hour Tester, Joep Schuurkes and Helena Jeret-Mae](http://www.fourhourtester.net/)
 
 ## The Testing Mindset
 
