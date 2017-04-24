@@ -154,6 +154,14 @@ To be completed
 
 * [AB Testing Podcast](http://www.angryweasel.com/ABTesting/)
 
+## Books
+  
+  * [Lessons Learned in Software Testing by Pettichord, Kaner, Bach.](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)
+  
+  * [Perfect Software and Other Illusions about Testing by Weinberg.](https://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692)
+  
+ * [Explore It! by Elisabeth Hendrickson.](https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025)
+
 ## Offbeat, possibly even Bonkers Stuff
 
 * [On Vegan Cooking and What Testers can Learn from it](http://testingrants.blogspot.com.au/2017/02/on-vegan-cooking-and-what-testers-can.html)
