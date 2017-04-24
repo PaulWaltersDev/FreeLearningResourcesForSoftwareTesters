@@ -92,6 +92,10 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [SoapUI Tutorials](https://www.soapui.org/tutorials.html)
 
+* [Elemental Selenium Tips Archive](http://elementalselenium.com/tips)
+
+* [Postman API Testing Documentation](https://www.getpostman.com/docs)
+
 ## Test Reporting
 
 To be completed
