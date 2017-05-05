@@ -146,6 +146,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Into to C on Windows, Handmade Hero](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp)
 
+* [Unix Tools, Markus Kuhn, University of Cambridge](http://www.cl.cam.ac.uk/teaching/1415/UnixTools/)
+
 * [Python3 Basics, Harrison Kinsley, Sendex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
 * [Introduction to Computer Programming in Python, Fall 2016, MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
