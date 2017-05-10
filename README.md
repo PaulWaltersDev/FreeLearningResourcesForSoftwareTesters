@@ -172,6 +172,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
+* [OWASP Top 10 Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
+
 * [Security I, Markus Kuhn, University of Cambridge](https://www.cl.cam.ac.uk/teaching/1415/SecurityI/)
 
 * [Security II, Markus Kuhn, University of Cambridge](https://www.cl.cam.ac.uk/teaching/1415/SecurityII/)
