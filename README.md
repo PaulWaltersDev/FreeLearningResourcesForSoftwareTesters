@@ -295,6 +295,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Maaret Pyhäjärvi ](http://visible-quality.blogspot.com.au/)
 
+* [RBCS Blog](http://rbcs-us.com/blog/)
+
 * [Rich Roger, RichRTesting](https://richrtesting.com/)
 
 * [Huib Shoots, Magnifiant](http://www.huibschoots.nl/wordpress/)
@@ -306,8 +308,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Mike Talk's Test Sheep Blog](https://medium.com/the-test-sheep)
 
 * [James Sheasby Thomas](http://rightsaidjames.com/blog/)
-
-* [RBCS Blog](http://rbcs-us.com/blog/)
 
 ## Magazines and Periodicals
 
