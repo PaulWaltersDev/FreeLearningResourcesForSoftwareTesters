@@ -202,6 +202,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [NMap Tutorials for Beginners, Bucky Roberts, the New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsINfLVidNVaZ-7_v1NJIo)
 
+
 * [Ethical Hacking - Hacking for Fun and Profit!, Pentester University](https://www.youtube.com/playlist?list=PLh3suzD3w9hEuEv9WO_zIahqFfhHd8XPq)
 
 * [Kali Linux and Backtrack, JackkTutorials](https://www.youtube.com/playlist?list=PLn-akFzjAR19ka6JXJvJwUIKHGB3FeEjN)
@@ -249,11 +250,17 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [AB Testing Podcast](http://www.angryweasel.com/ABTesting/)
 
 ## Blogs
-(In last name/company name alphabetical order to avoid bias)
+(In last name/company name alphabetical order to avoid order bias)
+
+* [Ilari Henrik Aegerter, Testing Observations](http://www.ilari.com/blog/)
+
+* [Ashfaque Ahmed's Blog](https://ahmedashfaque.wordpress.com/)
 
 * [Dan Ashby's Blog](https://danashby.co.uk/)
 
 * [James Bach's Satisfice Blog](http://www.satisfice.com/blog/)
+
+* [Jon Bach, Tested](https://jonbox.wordpress.com/)
 
 * [Michael Bolton's Developsense Blog](http://www.developsense.com/blog/)
 
@@ -267,15 +274,23 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Agile Testing with Lisa Crispin](http://lisacrispin.com/)
 
-* [Sammy Connell's Blog](https://samanthaconnelly.com/)
+* [Sammy Connelly's Blog](https://samanthaconnelly.com/)
 
 * [Google Testing Blog](https://testing.googleblog.com/)
+
+* [Lee Hawkins, Rocker Tester](https://therockertester.wordpress.com/)
 
 * [Elizabeth Hendrickson, TestObsessed](http://testobsessed.com/)
 
 * [Aaron Hodder, TestKiwi](http://testerkiwi.blogspot.com.au/)
 
-* [Angie Jones](http://angiejones.tech/)
+* [Matthew Heusser, XNDEV](http://xndev.com/creative-chaos/)
+
+* [Stephen Janeaway's Blog](http://stephenjanaway.co.uk/stephenjanaway/blog/)
+
+* [Angie Jones's Blog](http://angiejones.tech/)
+
+* [Mohinder Khosla's Blog](http://agileage.blogspot.com)
 
 * [Keith Klein, Quality Remarks](http://qualityremarks.com/)
 
@@ -285,6 +300,12 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Mike Lyles' Blog](https://mikelyles.wordpress.com/)
 
+* [Claire Mann, Aclairefication](http://blog.aclairefication.com/)
+
+* [Rajesh Mathur, Pragmatic Testing Blog](http://www.dogmatictesting.com/)
+
+* [Nikolay Advolodkin, Ultimate QA](http://ultimateqa.com/)
+
 * [Offensive Security Blog](https://www.offensive-security.com/blog/)
 
 * [QA Hates You](http://qahatesyou.com/wordpress/)
@@ -292,6 +313,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Alan Page's AngryWeasel Blog](http://angryweasel.com/blog/)
 
 * [PenTest Geek](https://www.pentestgeek.com/)
+
+* [Erik Petersen, TestingSpot](http://testingspot.net/)
 
 * [Brett Pettichord](http://www.pettichord.com/)
 
