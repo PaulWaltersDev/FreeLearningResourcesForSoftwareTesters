@@ -285,6 +285,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Mike Lyles' Blog](https://mikelyles.wordpress.com/)
 
+* [Offensive Security Blog](https://www.offensive-security.com/blog/)
+
 * [QA Hates You](http://qahatesyou.com/wordpress/)
 
 * [Alan Page's AngryWeasel Blog](http://angryweasel.com/blog/)
@@ -295,9 +297,11 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Maaret Pyhäjärvi ](http://visible-quality.blogspot.com.au/)
 
+* [OWASP Blog](https://owasp.blogspot.com.au/)
+
 * [RBCS Blog](http://rbcs-us.com/blog/)
 
-* [Rich Roger, RichRTesting](https://richrtesting.com/)
+* [Rich Rogers, RichRTesting](https://richrtesting.com/)
 
 * [Huib Shoots, Magnifiant](http://www.huibschoots.nl/wordpress/)
 
