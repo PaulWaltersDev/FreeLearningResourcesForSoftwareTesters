@@ -209,7 +209,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [How not to suck at Pen Testing, Jon Strand](https://www.youtube.com/watch?v=Yo4oP2eyDtI)
 
 
-
 ## Developing as a Tester
 
 * [30 Days of Testing, Ministry of Testing](https://dojo.ministryoftesting.com/lessons/30-days-of-testing)
@@ -217,8 +216,9 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Buccaneer-Tester: Winning Your Reputation](https://www.youtube.com/watch?v=MKFqwKSon-E)
 
 * [Becoming a World-Class Tester, Ilari Henrik Aegerter](http://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/)
-
+ 
 * [The power of believing that you can improve, Carol Dweck, TedTalks](https://www.youtube.com/watch?v=_X0mgOOSpLU)
+
 
 ## Podcasts
 
@@ -248,13 +248,82 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [AB Testing Podcast](http://www.angryweasel.com/ABTesting/)
 
+## Blogs
+(In last name/company name alphabetical order to avoid bias)
+
+* [Dan Ashby's Blog](https://danashby.co.uk/)
+
+* [James Bach's Satisfice Blog](http://www.satisfice.com/blog/)
+
+* [Michael Bolton's Developsense Blog](http://www.developsense.com/blog/)
+
+* [Richard Bradshaw, Friendly Tester](http://www.thefriendlytester.co.uk/)
+
+* [Common Exploits](https://www.commonexploits.com/)
+
+* [Carnal0wnage PenTest Blog](http://carnal0wnage.attackresearch.com/)
+
+* [Katrina Clokie's Blog](http://katrinatester.blogspot.com.au/)
+
+* [Agile Testing with Lisa Crispin](http://lisacrispin.com/)
+
+* [Sammy Connell's Blog](https://samanthaconnelly.com/)
+
+* [Google Testing Blog](https://testing.googleblog.com/)
+
+* [Elizabeth Hendrickson, TestObsessed](http://testobsessed.com/)
+
+* [Aaron Hodder, TestKiwi](http://testerkiwi.blogspot.com.au/)
+
+* [Angie Jones](http://angiejones.tech/)
+
+* [Keith Klein, Quality Remarks](http://qualityremarks.com/)
+
+* [Lyon Testing](https://www.lyontesting.fr/)
+
+* [Michael Larson, MKLTestHead](http://www.mkltesthead.com/)
+
+* [Mike Lyles' Blog](https://mikelyles.wordpress.com/)
+
+* [QA Hates You](http://qahatesyou.com/wordpress/)
+
+* [Alan Page's AngryWeasel Blog](http://angryweasel.com/blog/)
+
+* [PenTest Geek](https://www.pentestgeek.com/)
+
+* [Brett Pettichord](http://www.pettichord.com/)
+
+* [Maaret Pyhäjärvi ](http://visible-quality.blogspot.com.au/)
+
+* [Rich Roger, RichRTesting](https://richrtesting.com/)
+
+* [Huib Shoots, Magnifiant](http://www.huibschoots.nl/wordpress/)
+
+* [SANS Penetration Testing Blog](https://pen-testing.sans.org/blog)
+
+* [Sticky Minds Articles](https://www.stickyminds.com/resources/articles)
+
+* [Mike Talk's Test Sheep Blog](https://medium.com/the-test-sheep)
+
+* [James Sheasby Thomas](http://rightsaidjames.com/blog/)
+
+* [RBCS Blog](http://rbcs-us.com/blog/)
+
+## Magazines and Periodicals
+
+* [Testing Trapeze](http://www.testingtrapezemagazine.com/)
+
+* [TEST Magazine](http://www.testingmagazine.com/)
+
+* [PenTest Magazine](https://pentestmag.com/magazines/)
+
 ## Books
   
-  * [Lessons Learned in Software Testing by Pettichord, Kaner, Bach.](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)
+* [Lessons Learned in Software Testing by Pettichord, Kaner, Bach.](https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124)
   
-  * [Perfect Software and Other Illusions about Testing by Weinberg.](https://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692)
+* [Perfect Software and Other Illusions about Testing by Weinberg.](https://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692)
   
- * [Explore It! by Elisabeth Hendrickson.](https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025)
+* [Explore It! by Elisabeth Hendrickson.](https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025)
 
 ## Offbeat, possibly even Bonkers Stuff
 
