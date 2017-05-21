@@ -252,15 +252,21 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 ## Blogs
 (In last name/company name alphabetical order to avoid order bias)
 
+* [Nikolay Advolodkin's, UltyimateQA](https://www.ultimateqa.com/about/)
+
 * [Ilari Henrik Aegerter, Testing Observations](http://www.ilari.com/blog/)
 
 * [Ashfaque Ahmed's Blog](https://ahmedashfaque.wordpress.com/)
 
 * [Dan Ashby's Blog](https://danashby.co.uk/)
 
+* [Avocado Consulting Blog](https://www.avocado.com.au/category/resources/blog/)
+
 * [James Bach's Satisfice Blog](http://www.satisfice.com/blog/)
 
 * [Jon Bach, Tested](https://jonbox.wordpress.com/)
+
+* [Dan Billing, the Test Doctor](https://thetestdoctor.co.uk/)
 
 * [Michael Bolton's Developsense Blog](http://www.developsense.com/blog/)
 
@@ -275,6 +281,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Agile Testing with Lisa Crispin](http://lisacrispin.com/)
 
 * [Sammy Connelly's Blog](https://samanthaconnelly.com/)
+
+* [Danny Dainton's Blog](https://dannydainton.com/)
 
 * [Google Testing Blog](https://testing.googleblog.com/)
 
@@ -304,8 +312,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Rajesh Mathur, Pragmatic Testing Blog](http://www.dogmatictesting.com/)
 
-* [Nikolay Advolodkin, Ultimate QA](http://ultimateqa.com/)
-
 * [Offensive Security Blog](https://www.offensive-security.com/blog/)
 
 * [QA Hates You](http://qahatesyou.com/wordpress/)
@@ -333,6 +339,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Sticky Minds Articles](https://www.stickyminds.com/resources/articles)
 
 * [Mike Talk's Test Sheep Blog](https://medium.com/the-test-sheep)
+
+* [Testing Rants Blog](http://testingrants.blogspot.com.au/)
 
 * [James Sheasby Thomas](http://rightsaidjames.com/blog/)
 
