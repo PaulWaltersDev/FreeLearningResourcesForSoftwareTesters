@@ -5,9 +5,11 @@ Since computer science and IT university departments don't invariably offer dedi
 
 The rules I wish to implement are -
 
-1. Content must be directly relevant to testers
-1. Content must be informative and not overly "salesy"
-1. Contest must be free of charge
+1. Content must be relevant to testers
+2. Content must be informative and not overly "salesy"
+3. Contest must be free of charge
+
+(the exceptions to these being books and magazines, of which most have to be paid for, and blogs - some of which are linked to test consultancies and thus may have promotional pieces in them)
 
 This project is very new and the more resources are added the better. I ask the testing community to help by contacting me to offer new content or fork and create a pull request. If you have any suggestions, please let me know. In the meantime, I hope you find the resources below useful.
 
@@ -202,7 +204,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [NMap Tutorials for Beginners, Bucky Roberts, the New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsINfLVidNVaZ-7_v1NJIo)
 
-
 * [Ethical Hacking - Hacking for Fun and Profit!, Pentester University](https://www.youtube.com/playlist?list=PLh3suzD3w9hEuEv9WO_zIahqFfhHd8XPq)
 
 * [Kali Linux and Backtrack, JackkTutorials](https://www.youtube.com/playlist?list=PLn-akFzjAR19ka6JXJvJwUIKHGB3FeEjN)
@@ -252,7 +253,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 ## Blogs
 (In last name/company name alphabetical order to avoid order bias)
 
-* [Nikolay Advolodkin's, UltyimateQA](https://www.ultimateqa.com/about/)
+* [Nikolay Advolodkin, UltimateQA](https://www.ultimateqa.com/about/)
 
 * [Ilari Henrik Aegerter, Testing Observations](http://www.ilari.com/blog/)
 
