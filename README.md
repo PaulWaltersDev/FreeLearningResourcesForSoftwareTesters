@@ -281,6 +281,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Agile Testing with Lisa Crispin](http://lisacrispin.com/)
 
+* [Joe Colantonio's Blog](https://www.joecolantonio.com/blog/)
+
 * [Sammy Connelly's Blog](https://samanthaconnelly.com/)
 
 * [Danny Dainton's Blog](https://dannydainton.com/)
