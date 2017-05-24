@@ -367,6 +367,21 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [On Vegan Cooking and What Testers can Learn from it](http://testingrants.blogspot.com.au/2017/02/on-vegan-cooking-and-what-testers-can.html)
 
+## Online sessions
+
+* https://weekendtesting.com
+* Skype channel : WomenInTesting
+* Skype Channel : Software testing 24*7
+* Slack Channel : Ministry of testing
+* Slack Channel : Testers.io
+
+##resources
+* https://dojo.ministryoftesting.com/
+
+##Networking 
+* Follow tester over twitter and daily read tweets.
+
+
 
 
 
