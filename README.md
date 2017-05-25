@@ -197,7 +197,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [WebGoat User and Install Guides, OWASP](https://www.owasp.org/index.php/WebGoat_User_and_Install_Guide_Table_of_Contents)
 
 * [Web Pentesting Workshop with BurpSuite and Mutillidae Pt 1, Jeremy Druin](https://www.youtube.com/watch?v=rNkR1Joz4eU)
-
+ 
 * [SQL Injection, OWASP Testing Guide](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
 
 * [Basic and Advanced SQL Injection Techniques, Brandon Perry, Infosec Southwest](https://www.youtube.com/watch?v=clU9ce3erVs)
@@ -209,6 +209,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Kali Linux and Backtrack, JackkTutorials](https://www.youtube.com/playlist?list=PLn-akFzjAR19ka6JXJvJwUIKHGB3FeEjN)
 
 * [How not to suck at Pen Testing, Jon Strand](https://www.youtube.com/watch?v=Yo4oP2eyDtI)
+
 
 
 ## Developing as a Tester
@@ -230,6 +231,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [MKLTestHead Podcasts](http://www.mkltesthead.com/p/podcasts.html)
 
+* [Hanselminutes Podcast](https://hanselminutes.com/)
+
 * [Let's Talk About Tests, Baby](http://letstalkabouttests.libsyn.com/)
 
 * [The Dojo, Ministry of Testing](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
@@ -240,9 +243,19 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [James Bach's Podcast](http://www.satisfice.com/podcasts.shtml)
 
+* [OWASP 24/7 Podcast](https://www.owasp.org/index.php/OWASP_Podcast)
+
 * [Testing in the Pub](http://testinginthepub.co.uk/testinginthepub/)
 
+* [STP Radio](http://www.softwaretestpro.com/category/stp-radio/)
+
+* [Paul's Security Weekly and Hack Naked News](https://securityweekly.com/shows/)
+
 * [Test Talks Podcast](https://joecolantonio.com/testtalks/)
+
+* [Risky Business Security Podcast](https://risky.biz/netcasts/risky-business/)
+
+* [Software Engineering Radio](http://www.se-radio.net/)
 
 * [RBCS Podcast, Rex Black](http://rbcs-us.com/resources/podcast/)
 
@@ -277,6 +290,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Carnal0wnage PenTest Blog](http://carnal0wnage.attackresearch.com/)
 
+* [Anne-Marie Charrett, Maverick Tester](http://mavericktester.com/)
+
 * [Katrina Clokie's Blog](http://katrinatester.blogspot.com.au/)
 
 * [Agile Testing with Lisa Crispin](http://lisacrispin.com/)
@@ -288,6 +303,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Danny Dainton's Blog](https://dannydainton.com/)
 
 * [Google Testing Blog](https://testing.googleblog.com/)
+
+* [Janet Gregory, Dragonfire Inc.](http://janetgregory.ca/blog/)
 
 * [Lee Hawkins, Rocker Tester](https://therockertester.wordpress.com/)
 
@@ -345,6 +362,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Testing Rants Blog](http://testingrants.blogspot.com.au/)
 
+* [Jonathan Rasmusson, Agile Warrior](https://agilewarrior.wordpress.com/)
+
 * [James Sheasby Thomas](http://rightsaidjames.com/blog/)
 
 ## Magazines and Periodicals
@@ -362,6 +381,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Perfect Software and Other Illusions about Testing by Weinberg.](https://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692)
   
 * [Explore It! by Elisabeth Hendrickson.](https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing/dp/1937785025)
+
+* [Software Testing Techniques: Finding the Defects that Matter by Loveland, Miller, Prewitt Jr., Shannon](https://www.amazon.com/Software-Testing-Techniques-Finding-Defects-ebook/dp/B00IFAGQ6E)
 
 ## Offbeat, possibly even Bonkers Stuff
 
