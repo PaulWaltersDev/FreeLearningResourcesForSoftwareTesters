@@ -73,7 +73,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 ## Testing Tools and Techniques
 
-* [What Testing Tools should I Learn, Mark Whitteringham, Ministry of Testing](https://dojo.ministryoftesting.com/lessons/what-tools-should-i-learn)
+* [What Testing Tools should I Learn, Mark Winteringham, Ministry of Testing](https://dojo.ministryoftesting.com/lessons/what-tools-should-i-learn)
 
 * [Investing in Testing - The Importance of the Right Technique, Rex Black](http://rbcs-us.com/site/assets/files/1358/investingintesting_theimportance.pdf)
 
