@@ -384,6 +384,10 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Software Testing Techniques: Finding the Defects that Matter by Loveland, Miller, Prewitt Jr., Shannon](https://www.amazon.com/Software-Testing-Techniques-Finding-Defects-ebook/dp/B00IFAGQ6E)
 
+* [Fifty Quick Ideas to Improve Your Tests: by Gojko Adzic, David Evans and Tom Roden](https://leanpub.com/50quickideas-tests)
+
+* [How Google Tests Software; by James A. Whittaker, Jason Arbon, Jeff Carollo](https://books.google.com.au/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y)
+
 ## Offbeat, possibly even Bonkers Stuff
 
 * [On Vegan Cooking and What Testers can Learn from it](http://testingrants.blogspot.com.au/2017/02/on-vegan-cooking-and-what-testers-can.html)
