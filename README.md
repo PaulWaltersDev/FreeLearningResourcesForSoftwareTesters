@@ -210,8 +210,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [How not to suck at Pen Testing, Jon Strand](https://www.youtube.com/watch?v=Yo4oP2eyDtI)
 
-
-
 ## Developing as a Tester
 
 * [30 Days of Testing, Ministry of Testing](https://dojo.ministryoftesting.com/lessons/30-days-of-testing)
@@ -219,8 +217,9 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Buccaneer-Tester: Winning Your Reputation](https://www.youtube.com/watch?v=MKFqwKSon-E)
 
 * [Becoming a World-Class Tester, Ilari Henrik Aegerter](http://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/)
- 
+e 
 * [The power of believing that you can improve, Carol Dweck, TedTalks](https://www.youtube.com/watch?v=_X0mgOOSpLU)
+
 
 
 ## Podcasts
@@ -238,7 +237,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [The Dojo, Ministry of Testing](https://dojo.ministryoftesting.com/series/podcast-series-ministry-of-testing)
 
 * [TWiT Security Now](https://twit.tv/shows/security-now)
-
+ 
 * [Defensive Security Podcast](https://defensivesecurity.org/category/podcast/)
 
 * [James Bach's Podcast](http://www.satisfice.com/podcasts.shtml)
@@ -262,6 +261,10 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Super Testing Bros](https://soundcloud.com/user-813752576-652941214)
 
 * [AB Testing Podcast](http://www.angryweasel.com/ABTesting/)
+
+* [TestCast](http://www.testcast.net/)
+
+* [Test and Code](http://testandcode.com/)
 
 ## Blogs
 (In last name/company name alphabetical order to avoid order bias)
@@ -387,6 +390,10 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Fifty Quick Ideas to Improve Your Tests: by Gojko Adzic, David Evans and Tom Roden](https://leanpub.com/50quickideas-tests)
 
 * [How Google Tests Software; by James A. Whittaker, Jason Arbon, Jeff Carollo](https://books.google.com.au/books/about/How_Google_Tests_Software.html?id=VrAx1ATf-RoC&redir_esc=y)
+
+* [The Digital Quality Handbook](https://www.amazon.com/dp/0692885994)
+
+* [How We Test Software at Microsoft](https://www.amazon.com/How-We-Test-Software-Microsoft/dp/0735624259/)
 
 ## Offbeat, possibly even Bonkers Stuff
 
