@@ -210,6 +210,20 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [How not to suck at Pen Testing, Jon Strand](https://www.youtube.com/watch?v=Yo4oP2eyDtI)
 
+## Mobile Testing
+
+
+### Android
+
+* [Testing Views in Isolation with Espresso](https://www.novoda.com/blog/testing-views-in-isolation-with-espresso/)
+
+* [How testing can provide you with the best documentation](https://www.novoda.com/blog/tests-are-the-best-documentation/)
+
+### iOS
+
+* [Getting started with XCUITest framework for testing iOS apps](https://www.novoda.com/blog/getting-started-with-xcuitest-framework-for-testing-ios-apps/)
+
+
 ## Developing as a Tester
 
 * [30 Days of Testing, Ministry of Testing](https://dojo.ministryoftesting.com/lessons/30-days-of-testing)
@@ -217,7 +231,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Buccaneer-Tester: Winning Your Reputation](https://www.youtube.com/watch?v=MKFqwKSon-E)
 
 * [Becoming a World-Class Tester, Ilari Henrik Aegerter](http://www.ebaytechblog.com/2013/01/31/becoming-a-world-class-tester/)
-e 
+
 * [The power of believing that you can improve, Carol Dweck, TedTalks](https://www.youtube.com/watch?v=_X0mgOOSpLU)
 
 
@@ -410,6 +424,8 @@ e
 ## Other Resources on Github
 * [Awesome Testing](https://github.com/TheJambo/awesome-testing)
 * [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
+* [Android Testing Kata](https://github.com/Karumi/KataSuperHeroesAndroid)
+* [iOS Testing Kata](https://github.com/Karumi/KataSuperHeroesIOS)
 
 ## Tester Twitter Handles 
 * (to be added)
