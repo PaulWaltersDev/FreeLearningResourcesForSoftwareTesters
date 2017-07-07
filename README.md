@@ -409,6 +409,10 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [How We Test Software at Microsoft](https://www.amazon.com/How-We-Test-Software-Microsoft/dp/0735624259/)
 
+* [Agile Testing Foundations, Rex Black et al](https://www.amazon.com/Agile-Testing-Foundations-Foundation-Tester-ebook/dp/B06Y116GD6)
+
+* [Test Automation in the Real World: Practical Lessons for Automated Testing, Greg Paskal](https://www.amazon.com/gp/product/1520745923/)
+
 ## Offbeat, possibly even Bonkers Stuff
 
 * [On Vegan Cooking and What Testers can Learn from it](http://testingrants.blogspot.com.au/2017/02/on-vegan-cooking-and-what-testers-can.html)
