@@ -323,6 +323,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Janet Gregory, Dragonfire Inc.](http://janetgregory.ca/blog/)
 
+* [Paul Grizzaffi, Responsible Automation](https://responsibleautomation.wordpress.com/)
+
 * [Lee Hawkins, Rocker Tester](https://therockertester.wordpress.com/)
 
 * [Elizabeth Hendrickson, TestObsessed](http://testobsessed.com/)
