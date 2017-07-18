@@ -7,7 +7,7 @@ The rules I wish to implement are -
 
 1. Content must be relevant to testers
 2. Content must be informative and not overly "salesy"
-3. Contest must be free of charge
+3. Content must be free of charge
 
 (the exceptions to these being books and magazines, of which most have to be paid for, and blogs - some of which are linked to test consultancies and thus may have promotional pieces in them)
 
