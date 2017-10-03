@@ -39,6 +39,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Whiteboard Testing Videos](https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ/videos)
 
+* [How to Test, Mike Talks](https://leanpub.com/howtotest)
+
 ## The Testing Mindset (with some Logic and Philosophy)
 
 * [List of Cognitive Biases, Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
