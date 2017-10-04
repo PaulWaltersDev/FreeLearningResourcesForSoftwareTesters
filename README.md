@@ -39,8 +39,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Whiteboard Testing Videos](https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ/videos)
 
-* [How to Test, Mike Talks](https://leanpub.com/howtotest)
-
 ## The Testing Mindset (with some Logic and Philosophy)
 
 * [List of Cognitive Biases, Wikipedia](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
@@ -416,6 +414,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Agile Testing Foundations, Rex Black et al](https://www.amazon.com/Agile-Testing-Foundations-Foundation-Tester-ebook/dp/B06Y116GD6)
 
 * [Test Automation in the Real World: Practical Lessons for Automated Testing, Greg Paskal](https://www.amazon.com/gp/product/1520745923/)
+
+* [How to Test, Mike Talks](https://leanpub.com/howtotest)
 
 ## Offbeat, possibly even Bonkers Stuff
 
