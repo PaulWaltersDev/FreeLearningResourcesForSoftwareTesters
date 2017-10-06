@@ -415,6 +415,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Test Automation in the Real World: Practical Lessons for Automated Testing, Greg Paskal](https://www.amazon.com/gp/product/1520745923/)
 
+* [How to Test, Mike Talks](https://leanpub.com/howtotest)
+
 ## Offbeat, possibly even Bonkers Stuff
 
 * [On Vegan Cooking and What Testers can Learn from it](http://testingrants.blogspot.com.au/2017/02/on-vegan-cooking-and-what-testers-can.html)
