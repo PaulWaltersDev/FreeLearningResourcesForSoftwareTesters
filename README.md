@@ -424,10 +424,13 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 ## Online Sessions
 
 * https://weekendtesting.com
-* Skype channel : Women in Testing
+* Slack Channel : Women in Testing
 * Skype Channel : Software testing 24 * 7
 * Slack Channel : Ministry of Testing
 * Slack Channel : Testers.io
+
+## Software Testing Conferences
+* [Software Testing Conferences](http://testingconferences.org/)
 
 ## Other Resources on Github
 * [Awesome Testing](https://github.com/TheJambo/awesome-testing)
