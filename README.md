@@ -122,6 +122,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Rest API Testing, (Alan Richardson, Evil Tester)](https://www.youtube.com/playlist?list=PLrM2ELpRbbu7JsiXRHktkL_qqSC_aevSV)
 
+* [Screenplay Pattern with Serenity](http://serenity-bdd.info/docs/articles/screenplay-tutorial.html)
+
 ## Test Reporting
 
 * [Test Execution Reports, SoftwareTestingHelp](http://www.softwaretestinghelp.com/test-execution-report/)
