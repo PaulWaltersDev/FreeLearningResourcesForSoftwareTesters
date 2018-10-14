@@ -124,6 +124,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Screenplay Pattern with Serenity](http://serenity-bdd.info/docs/articles/screenplay-tutorial.html)
 
+* [Webdriverio Documentation (Webdriver binding for nodejs)](http://webdriver.io/)
+
 ## Test Reporting
 
 * [Test Execution Reports, SoftwareTestingHelp](http://www.softwaretestinghelp.com/test-execution-report/)
