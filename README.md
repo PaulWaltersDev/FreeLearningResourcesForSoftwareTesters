@@ -77,6 +77,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Investing in Testing - The Importance of the Right Technique, Rex Black](http://rbcs-us.com/site/assets/files/1358/investingintesting_theimportance.pdf)
 
+* [Top Test Management Tools](https://artoftesting.com/test-management-tools) 
+
 ## Exploratory Testing
 
 * [What is Exploratory Testing, James Bach](http://www.satisfice.com/articles/what_is_et.shtml)
