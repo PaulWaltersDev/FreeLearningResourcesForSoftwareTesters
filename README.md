@@ -443,7 +443,19 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [iOS Testing Kata](https://github.com/Karumi/KataSuperHeroesIOS)
 
 ## Tester Twitter Handles 
-* (to be added)
+* [Parveen Khan](https://twitter.com/Parveen_Khan10)
+* [Testingmind](https://twitter.com/testingmindcon)
+* [Alexander Serebrenik](https://twitter.com/aserebrenik)
+* [Test Automation University](https://twitter.com/TestAutomationU)
+* [TestProject](https://twitter.com/TestProject_io)
+* [The QA Lead](https://twitter.com/TheQALead)
+* [Testim.io](https://twitter.com/testim_io)
+* [Ministry of Testing](https://twitter.com/ministryoftest)
+* [Trending in Testing](https://twitter.com/TrendingTesting)
+* [Software Testing & QA Online Network.](https://twitter.com/testingtechnews)
+* [Software Testing Weekly](https://twitter.com/QANewsletter)
+* [QA Madness](https://twitter.com/QAMadness)
+* [Software Testing Tips & Tricks](https://twitter.com/BugHuntersPro)
 
 
 
