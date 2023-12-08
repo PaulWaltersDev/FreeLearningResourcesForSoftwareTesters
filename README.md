@@ -128,6 +128,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Webdriverio Documentation (Webdriver binding for nodejs)](http://webdriver.io/)
 
+* [Test Automation Learning Paths](https://testautomationu.applitools.com/)
+
 ## Test Reporting
 
 * [Test Execution Reports, SoftwareTestingHelp](http://www.softwaretestinghelp.com/test-execution-report/)
