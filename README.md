@@ -83,7 +83,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [What is Exploratory Testing, James Bach](http://www.satisfice.com/articles/what_is_et.shtml)
 
-* [Rigorous Exploratory Testing, Elizabeth Hendrickson](http://testobsessed.com/2006/04/rigorous-exploratory-testing/)
+* [Rigorous Exploratory Testing, Elizabeth Hendrickson](https://web.archive.org/web/20150915054121/http://testobsessed.com/2006/04/rigorous-exploratory-testing/)
 
 * [Exploratory Testing, gov.uk Service Manual](https://www.gov.uk/service-manual/technology/exploratory-testing)
 
@@ -93,7 +93,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Google Tech Talks - Exploratory Testing, Jon Bach](https://www.youtube.com/watch?v=8Y4WCdJRfV4)
 
-* [Test Heuristics Cheat Sheet, Elizabeth Hendrickson](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
+* [Test Heuristics Cheat Sheet, Elizabeth Hendrickson](https://web.archive.org/web/20150403174402/http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
 
 * [Exploratory Testing, Martin Mudge](https://www.youtube.com/watch?v=0LqmI6BFySM)
 
@@ -146,7 +146,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Agile Manifesto Principles](http://agilemanifesto.org/principles.html)
 
-* [Agile Testing Overview, Elizabeth Hendrickson](http://testobsessed.com/wp-content/uploads/2011/04/AgileTestingOverview.pdf)
+* [Agile Testing Overview, Elizabeth Hendrickson](https://web.archive.org/web/20110614142541/http://testobsessed.com/wp-content/uploads/2011/04/AgileTestingOverview.pdf)
 
 * [Agile Test Planning with the Agile Testing Quadrants, Lisa Crispin and Janet Gregory](http://lisacrispin.com/downloads/AdpTestPlanning.pdf)
 
@@ -334,8 +334,6 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Paul Grizzaffi, Responsible Automation](https://responsibleautomation.wordpress.com/)
 
 * [Lee Hawkins, Rocker Tester](https://therockertester.wordpress.com/)
-
-* [Elizabeth Hendrickson, TestObsessed](http://testobsessed.com/)
 
 * [Aaron Hodder, TestKiwi](http://testerkiwi.blogspot.com.au/)
 
