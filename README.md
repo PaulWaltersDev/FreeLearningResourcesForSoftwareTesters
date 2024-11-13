@@ -53,7 +53,7 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 ## Test Design and Execution
 
-* [Requirements Analysis, University of Michigan](http://groups.engin.umd.umich.edu/CIS/course.des/cis375/ppt/lec11.ppt)
+* [Requirements Analysis, University of Michigan](https://web.archive.org/web/20150528190732/http://groups.engin.umd.umich.edu/CIS/course.des/cis375/ppt/lec11.ppt)
 
 * [Test Design Techniques (Videos)](https://www.youtube.com/playlist?list=PLc3SzDYhhiGWW0TzISFKqAN_ic8DnZvVc)
 
