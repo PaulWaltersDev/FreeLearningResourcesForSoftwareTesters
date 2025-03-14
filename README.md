@@ -393,6 +393,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 ## Magazines and Periodicals
 
+* [testing experience](https://www.testingexperience.media/)
+
 * [Testing Trapeze](http://www.testingtrapezemagazine.com/)
 
 * [TEST Magazine](http://www.testingmagazine.com/)
