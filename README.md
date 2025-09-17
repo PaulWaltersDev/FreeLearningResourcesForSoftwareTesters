@@ -53,6 +53,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 ## Test Design and Execution
 
+* [Awesome Test Case Design](https://github.com/Treeify-ai/Awesome-Test-Case-Design/tree/main)
+
 * [Requirements Analysis, University of Michigan](https://web.archive.org/web/20150528190732/http://groups.engin.umd.umich.edu/CIS/course.des/cis375/ppt/lec11.ppt)
 
 * [Test Design Techniques (Videos)](https://www.youtube.com/playlist?list=PLc3SzDYhhiGWW0TzISFKqAN_ic8DnZvVc)
@@ -77,7 +79,9 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Investing in Testing - The Importance of the Right Technique, Rex Black](http://rbcs-us.com/site/assets/files/1358/investingintesting_theimportance.pdf)
 
-* [Top Test Management Tools](https://artoftesting.com/test-management-tools) 
+* [Top Test Management Tools](https://artoftesting.com/test-management-tools)
+
+* [Test Case Design AI Copilot](https://treeifyai.com)
 
 ## Exploratory Testing
 
