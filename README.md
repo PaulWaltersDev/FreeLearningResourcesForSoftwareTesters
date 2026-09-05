@@ -104,6 +104,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 ## Test Automation
 
+* [Agent QA Quickstart: Natural-Language Web and Mobile Testing](https://vostride.com/docs/agent-qa/quickstart)
+
 * [Page Object Pattern](https://martinfowler.com/bliki/PageObject.html)
 
 * [Selenium Documentation](http://docs.seleniumhq.org/docs/)
