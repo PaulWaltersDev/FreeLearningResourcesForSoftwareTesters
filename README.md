@@ -70,6 +70,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [Software Testing Best Practices, Rex Black](http://rbcs-us.com/site/assets/files/2389/software_testing_best_practices.pdf)
 
 * [Test Matrices, Michael Bolton](http://www.developsense.com/testMatrices.html)
+  
+* [Black Box Testing Techniques: A Practical Guide, Keploy](https://keploy.io/blog/community/black-box-testing-techniques)
 
 ## Testing Tools and Techniques
 
