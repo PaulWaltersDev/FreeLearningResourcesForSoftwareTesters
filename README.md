@@ -459,6 +459,8 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 * [QA Madness](https://twitter.com/QAMadness)
 * [Software Testing Tips & Tricks](https://twitter.com/BugHuntersPro)
 
+## Testing Websites
+*[QA Testing Service – 39+ QA Practice Websites](https://qatestingservice.in/resources): A collection of 39+ demo websites and testing practice environments for learners and QA testers to explore, practice manual testing, automation testing, database testing and api testing, and create test cases.
 
 
 
